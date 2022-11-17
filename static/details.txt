@@ -1,0 +1,2 @@
+I'm a senior here at UTRGV.
+I mostly use Ruby on Rails as my framework, but I like Flask a lot so far!
